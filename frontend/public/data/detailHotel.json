@@ -1,0 +1,95 @@
+{
+    "CollegeHaus":[
+        {
+        "id": 1,
+        "property": {
+        "name": "College Haus",
+        "address": "1169 Soi Ratchadaphisek 3 (Soi Chinese Embassy) Ratchadaphisek Rd, Ratchadaphisek, Bangkok, Thailand, 10400",
+        "rating": 4.5,
+        "review_summary": {
+            "rating": 8.3,
+            "reviews_count": 1756,
+            "cleanliness": 8.8,
+            "room_comfort_and_quality": 8.8
+        },
+        "description": "The car parking and the Wi-Fi are always free, so you can stay in touch and come and go as you please. Conveniently situated in the Ratchada part of Bangkok, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous Wat Phra Chetuphon. Rated with 4.5 stars, this high-quality property provides guests with access to a fitness center and an indoor pool on-site.",
+        "highlights": {
+            "distance_to_public_transport": "740 meters",
+            "car_parking": "Free",
+            "activities": "Great activities",
+            "swimming_pool": "Great swimming pool",
+            "check_in_24_hours": "Check-in [24-hour]",
+            "wifi_free": true
+        },
+        "check_in": "14:00",
+        "check_out": "until 12:00"
+    },
+    "rooms": [
+      {
+        "type": "Standard Room",
+        "popularity": "Popular choice!",
+        "last_booked": "58 minutes ago",
+        "bed_type": "1 double bed",
+        "size": "30 m² / 323 ft²",
+        "view": "City view",
+        "balcony_terrace": true,
+        "non_smoking": true,
+        "shower": true,
+        "price_per_night": 908,
+        "currency": "THB",
+        "benefits": {
+          "cancellation_policy": true,
+          "parking": true,
+          "wifi": true,
+          "drinking_water": true,
+          "cashback_rewards": 16,
+          "other_rewards_and_discounts": "Subject to Cashback Terms"
+        }
+      },
+      {
+        "type": "Standard Room",
+        "popularity": "Popular choice!",
+        "last_booked": "7 hours ago",
+        "bed_type": "1 double bed",
+        "size": "30 m² / 323 ft²",
+        "view": "City view",
+        "balcony_terrace": true,
+        "non_smoking": true,
+        "shower": true,
+        "price_per_night": 977,
+        "currency": "THB",
+        "benefits": {
+          "extra_low_price": true,
+          "non_refundable": true,
+          "pay_at_hotel": true,
+          "parking": true,
+          "wifi": true,
+          "book_without_credit_card": true
+        }
+      },
+      {
+        "type": "Suite Room",
+        "popularity": "Popular choice!",
+        "last_booked": "7 hours ago",
+        "bed_type": "1 double bed",
+        "size": "60 m² / 646 ft²",
+        "view": "City view",
+        "balcony_terrace": true,
+        "non_smoking": true,
+        "shower": true,
+        "price_per_night": 1347,
+        "currency": "THB",
+        "benefits": {
+          "cancellation_policy": true,
+          "parking": true,
+          "wifi": true,
+          "drinking_water": true,
+          "cashback_rewards": 24,
+          "other_rewards_and_discounts": "Subject to Cashback Terms"
+        }
+      }
+    ]
+        }
+    ]    
+}
+  

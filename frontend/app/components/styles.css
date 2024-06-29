@@ -1,0 +1,26 @@
+.slide-container {
+    position: relative;
+}
+.nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 10;
+    width: 30px;
+    height: 30px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.nav:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.nav.prev {
+    margin-left: 20px;
+}
+.nav.next {
+    margin-right: 20px;
+}

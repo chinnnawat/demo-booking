@@ -1,0 +1,69 @@
+{
+    "recommen_hotel":[
+        {
+            "id": 1,
+            "name": "CollegeHaus",
+            "location": {
+                "area": "Pratunam",
+                "city": "Bangkok"
+            },
+            "rating": 4.5,
+            "reviews": 9,
+            "price":  1312.62,
+            "priceNote": "Per night before taxes and fees",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/347370704.jpg?k=82faf2cde5bee0b478bed04f71897d0952c6c3f16f87a6be7bac5e58be0f82c5&o=&hp=1"
+        },
+        {
+            "id": 2,
+            "name": "Sunshine Resort",
+            "location": {
+                "area": "Patong",
+                "city": "Phuket"
+            },
+            "rating": 4.0,
+            "reviews": 25,
+            "price":  2500.00,
+            "priceNote": "Per night before taxes and fees",
+            "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/37723843.jpg?k=4e988409f0995854a726c016ca4213256476a66944d7799ef057022c1a85b464&o=&hp=1"
+        },
+        {
+            "id": 3,
+            "name": "Mountain View Hotel",
+            "location": {
+                "area": "Chiang Mai",
+                "city": "Chiang Mai"
+            },
+            "rating": 4.8,
+            "reviews": 15,
+            "price":  1800.00,
+            "priceNote": "Per night before taxes and fees",
+            "image": "https://www.cyprusparadise.com/media/1351/1-mountain-view-hotel.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Beachside Bungalows",
+            "location": {
+                "area": "Chaweng",
+                "city": "Koh Samui"
+            },
+            "rating": 4.2,
+            "reviews": 40,
+            "price":  3200.00,
+            "priceNote": "Per night before taxes and fees",
+            "image": "https://kims.com.au/wp-content/uploads/2019/04/Beachfront-Bungalow-12-1-Busch-April19-e1554863030532.jpeg"
+        },
+        {
+            "id": 5,
+            "name": "Riverside Inn",
+            "location": {
+                "area": "Old City",
+                "city": "Ayutthaya"
+            },
+            "rating": 3.9,
+            "reviews": 12,
+            "price":  900.00,            
+            "priceNote": "Per night before taxes and fees",
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/c5/52/77/the-riverside-inn.jpg?w=700&h=-1&s=1"
+        }
+    ]
+}
